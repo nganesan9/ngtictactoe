@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/c2c81911-9576-4081-9cf9-f09938db4ebc/resourceGroups/manual-fhl-tictactoe2023/providers/Microsoft.Web/sites/ninjatictactoe",
+    "appService.deploySubpath": "."
+}
